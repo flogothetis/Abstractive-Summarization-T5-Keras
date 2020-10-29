@@ -17,7 +17,7 @@ Hugging face's T5 pretrained model is fine-tuned on a small dataset from CNNDail
 
 
 # Test it ..!
-Change the text of the final notebook's cell to produce the summarization for your own text
+Change the text of the final notebook's cell to produce the summary for your own text
 
 ## Run on Google colab
 1. Open Google Colab
